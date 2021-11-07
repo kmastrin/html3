@@ -56,6 +56,18 @@ nav a:link {
 	margin-right: 20px;
 }
 
+nav a:visited {
+	color:rgba(113,118,173,1.00)
+}
+
+nav a:hover {
+	color:rgba(203,113,44,1.00);
+}
+
+nav a:active {
+	text-decoration: none;
+}
+
 .left{
 	width: 400px;
 	float:left;
