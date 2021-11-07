@@ -46,5 +46,26 @@ nav li{
 footer{
 	text-align:center;
 	clear:both;
-	font-family:""
+	font-family:Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', 'serif';
+}
+
+nav a:link {
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color:rgba(0,0,0,1.00);
+	text-decoration: none;
+	margin-right: 20px;
+}
+
+.left{
+	width: 400px;
+	float:left;
+	margin-top:30px;
+	margin-bottom: 30px;
+}
+
+.right{
+	width: 400px;
+	float:left;
+	margin-top:30px;
+	margin-bottom: 30px;
 }
